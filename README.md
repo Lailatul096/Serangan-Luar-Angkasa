@@ -1,4 +1,0 @@
-Game ini adalah permainan tembak-tembakan (Serangan Luar Angkasa) di mana pemain mengendalikan pesawat menggunakan mouse dan menembak dengan tombol spasi. Musuh (enemy) muncul dari atas layar dan bergerak turun, serta harus ditembak beberapa kali untuk dihancurkan agar pemain mendapatkan skor.
-Selain itu, terdapat musuh spesial yaitu UFO yang muncul dari kiri, bergerak ke kanan, lalu menghilang dan muncul kembali dari kiri secara berulang. UFO lebih kuat, tetapi memberikan skor lebih besar jika berhasil dihancurkan.
-Pemain harus menghindari tabrakan dengan enemy maupun UFO. Setiap tabrakan akan mengurangi 1 nyawa, dan pemain memiliki total 3 nyawa. Jika nyawa habis, maka permainan berakhir dan muncul tulisan “GAME OVER”.
-Tujuan permainan adalah bertahan selama mungkin dan mengumpulkan skor setinggi-tingginya.
